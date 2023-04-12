@@ -1,0 +1,32 @@
+.head {
+    color: red;
+}
+
+#body {
+    background-image: url(./sistema.jpg);
+    background-size: cover;
+    color: white;
+    font-family: Helvetica;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+}
+
+#texto {
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo {
+    color: white;
+    font-size: 4rem
+}
+
+#botones {
+
+
+}
